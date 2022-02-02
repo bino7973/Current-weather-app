@@ -26,3 +26,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 "# Current-weather-app" 
+
+##Installation and execution
+Placez vous dans le dossier back et executer la commande npm install pour installer les packages nécessaire à l'exécution de l'application.
+
+Excecuter la commande npm start pour toujours dans le même dossier pour lancer le server backend
+
+ensuite excécuter la commande ng serve dans CurrentWather pour lancer le server du frontend et rendez vous sur l'url http://localhost:4200/ pour voir les résultats
